@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://shaikh-jahangir-portfolio.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default" width="52" height="40" alt="Portfolio"  />
+    <img src="https://github.com/user-attachments/assets/ade296be-ad41-4196-a641-247f03fd5482" width="52" height="40" alt="Portfolio"  />
   </a>
 </div>
 
